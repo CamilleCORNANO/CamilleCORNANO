@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning php, c#
 - 📫 How to reach me macacornano@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I may become a top fighting player
+- ⚡ Fun fact: I may become a top fighting games player
 
 <!---
 CamilleCORNANO/CamilleCORNANO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
