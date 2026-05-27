@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CamilleCORNANO
 - 👀 I’m interested in computer science, videogames, writing, music
-- 🌱 I’m currently learning php, c#
-- 📫 How to reach me macacornano@gmail.com
+- 🌱 I’m currently learning typescript, frontend dev
+- 📫 How to reach me macacornano@gmail.com, IG, Discord: myosotis_valentine,
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I might be creating the best fighting game of all times.
 
